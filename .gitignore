@@ -2,3 +2,5 @@
 *.jpg
 *.jpeg
 python-dro/tests/output
+__pycache__
+python-dro/__pycache__
